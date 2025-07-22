@@ -7,7 +7,7 @@
 Docente: MSc Eng. Miguel Ortiz (miguel.ortizp@upb.edu.co)
 
 Estudiantes:
-- X (x@upb.edu.co)
+- Álvaro Jesús Negrette Buelvas (alvaro.negrette@upb.edu.co)
 - Y (y@upb.edu.co)
 - Z (z@upb.edu.co)
 
